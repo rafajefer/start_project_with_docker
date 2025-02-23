@@ -36,6 +36,20 @@ Creating a new Next.js app in /app/my-app.
 # output example
 ```
 
+### Rodando o projeto
+
+```sh
+docker exec -it reactjs-container bash
+```
+
+```sh
+cd my-app
+```
+
+```sh
+npm run dev
+```
+
 ### Comandos docker
 
 Para start o container utilizando o docker composer
