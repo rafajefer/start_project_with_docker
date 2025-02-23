@@ -1,4 +1,4 @@
-# todo-list
+# Criando um projeto com react.js utilizando o docker
 
 ### Passo a passo
 
